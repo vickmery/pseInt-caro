@@ -1,0 +1,6 @@
+Algoritmo area_de_un_triangulo
+	Escribir "medidas del area de un triangulo"
+	Leer area1, area2, area3
+	area<-area1+area2+area3
+	Escribir area
+FinAlgoritmo

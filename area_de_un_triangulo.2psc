@@ -1,0 +1,8 @@
+Algoritmo area_de_un_triangulo
+	Escribir "por favor digite la base a calcular "
+	Leer base
+	Escribir "por favor digite la altura a calcular"
+	Leer altura
+	RESULTADO<-base*altura/2
+	Escribir "El Area de un Triangulo es " RESULTADO
+FinAlgoritmo
